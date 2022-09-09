@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1662687538212" clover="3.2.0">
+  <project timestamp="1662687538212" name="All files">
+    <metrics statements="18" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="5" elements="25" coveredelements="20" complexity="0" loc="18" ncloc="18" packages="4" files="5" classes="5"/>
+    <package name="constants">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="url.ts" path="C:\Users\jvrs_\Desktop\Projeto SDK API-FISCAL\src\data\constants\url.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="domain">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="auth.params.ts" path="C:\Users\jvrs_\Desktop\Projeto SDK API-FISCAL\src\data\domain\auth.params.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="auth.response.ts" path="C:\Users\jvrs_\Desktop\Projeto SDK API-FISCAL\src\data\domain\auth.response.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="external">
+      <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="auth.adapter.ts" path="C:\Users\jvrs_\Desktop\Projeto SDK API-FISCAL\src\data\external\auth.adapter.ts">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="usecases">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="authentication.ts" path="C:\Users\jvrs_\Desktop\Projeto SDK API-FISCAL\src\data\usecases\authentication.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
